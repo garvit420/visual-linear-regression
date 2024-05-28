@@ -1,0 +1,25 @@
+{
+  "name": "visualization-linear-regression",
+  "version": "1.0.1",
+  "description": "help visualizing linear regression",
+  "main": "sketch0.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garvit420/visual-linear-regression.git"
+  },
+  "keywords": [
+    "NPM",
+    "visualization",
+    "linear",
+    "regression"
+  ],
+  "author": "garvit420",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garvit420/visual-linear-regression/issues"
+  },
+  "homepage": "https://github.com/garvit420/visual-linear-regression#readme"
+}
